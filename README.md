@@ -70,7 +70,7 @@ student-dropout-prediction/
 - Future work: handle class imbalance (e.g. SMOTE), tune hyperparameters, and deploy a Streamlit web app.
 
 ## Author
-_Your name_, B.Tech CSE (AI & ML), 2nd year
+Aditya Agrawal (S25CSEU0694), B.Tech CSE (AI & ML), 2nd year
 
 ## Reference
 Realinho, V., Machado, J., Baptista, L., Martins, M.V. (2021). *Predict students' dropout and academic success* [Dataset]. Zenodo / UCI Machine Learning Repository.
